@@ -1,6 +1,6 @@
 
 /**
- * @name untitled
+ * @name frst
  */
 var bpm = 120;
 var bps = bpm/60;
